@@ -43,4 +43,4 @@ Aqui você encontrará jutsus secretos, clones do repositório e bugs mais trai�
 
 *"Meu sonho é... me tornar o Hokage dos commits!"* 🦊
 
-![Naruto](https://upload.wikimedia.org/wikipedia/en/9/94/Naruto_Uzumaki.png)
+![Naruto](https://www.google.com/imgres?q=naruto&imgurl=http%3A%2F%2Fconteudo.imguol.com.br%2Fc%2Fentretenimento%2Faf%2F2024%2F02%2F21%2Fcena-de-naruto-shippuden-1708550179304_v2_1x1.jpg&imgrefurl=https%3A%2F%2Fwww.uol.com.br%2Fsplash%2Fnoticias%2F2024%2F02%2F23%2Fnaruto-e-mais-como-o-universo-dos-ninjas-e-abordado-na-cultura-pop.htm&docid=_c5W9X75XuCKIM&tbnid=ZcuZkBIlUiO9XM&vet=12ahUKEwj1goPLlrGPAxW8tJUCHfGiIjIQM3oECD4QAA..i&w=849&h=850&hcb=2&ved=2ahUKEwj1goPLlrGPAxW8tJUCHfGiIjIQM3oECD4QAAhttps://upload.wikimedia.org/wikipedia/en/9/94/Naruto_Uzumaki.png)
