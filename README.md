@@ -42,6 +42,5 @@ Aqui você encontrará jutsus secretos, clones do repositório e bugs mais trai�
 ---
 
 *"Meu sonho é... me tornar o Hokage dos commits!"* 🦊
-  ["https://media.tenor.com/0U4rJ2i-cMkAAAAC/naruto-ninja.gif" alt="Naruto Coding Ninja" width="400"/>]
 
-
+![Naruto](https://media.tenor.com/0U4rJ2i-cMkAAAAC/naruto-ninja.gif)
