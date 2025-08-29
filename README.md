@@ -44,4 +44,4 @@ Aqui você encontrará jutsus secretos, clones do repositório e bugs mais trai�
 *"Meu sonho é... me tornar o Hokage dos commits!"* 🦊
 
 
-<img src="https://blackcompany.com.br/wp-content/uploads/2024/09/v-naruto.jpg" alt="Naruto" width="300">
+<img src="https://blackcompany.com.br/wp-content/uploads/2024/09/v-naruto.jpg" alt="Naruto" width="700">
